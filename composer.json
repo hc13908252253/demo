@@ -1,0 +1,14 @@
+{
+    "name": "hc13908252253/demo",
+    "description": "test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "司海清",
+            "email": "hc13908252253@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
