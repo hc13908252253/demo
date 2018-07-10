@@ -10,7 +10,15 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "gregwar/captcha": "dev-master"
+    },
+    "autoload":{
+        "psr-4":{
+            "core\\":"core",
+            "web\\":"web"
+        }
+    },
     "repositories": {
         "packagist": {
             "type": "composer",
